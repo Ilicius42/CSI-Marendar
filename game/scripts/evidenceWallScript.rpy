@@ -53,7 +53,7 @@ label apprentice1Notes:
 label apprentice2Notes:
     $ noteInformation = "Učedník mistra Heinricha. "
 
-    $ chosenLocation
+    $ chosenLocation = "victimHouseholdController"
     return
 
 label erleNotes:
