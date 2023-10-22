@@ -235,7 +235,7 @@ label njalOptions:
         "Mohl bych ještě mluvit s vaším učedníkem?" if gerdOptionsRemaining > 0 and gender == "M":
             hide mcPic
             " Njal kývne na chlapce, který se celou dobu držel kus stranou a snažil se na sebe neupozorňovat."
-            jump apprenticeController
+            jump gerdController
         "Mohla bych ještě mluvit s vaším učedníkem?" if gerdOptionsRemaining > 0 and gender == "F":
             hide mcPic
             " Njal kývne na chlapce, který se celou dobu držel kus stranou a snažil se na sebe neupozorňovat."
